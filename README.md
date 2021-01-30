@@ -1,4 +1,4 @@
-# brincando-com-vue
+# Tasks com Vue 2 (Options API)
 
 ## Project setup
 ```
